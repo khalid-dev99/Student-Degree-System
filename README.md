@@ -1,4 +1,5 @@
 🎓 Student Degree System
+
 📌 Description
 This is a simple C++ console program that checks if a student passes or fails based on their theoretical and practical scores, and whether they cheated.
 _________________________________________________________________________
